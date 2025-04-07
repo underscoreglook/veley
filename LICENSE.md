@@ -1,5 +1,7 @@
 Veley is licensed under the Vibe Public License:
+
 Use it if want. If you don’t, don’t. I don't need to know.
+
 I’m not responsible for any misuse or linguistic related shenanigans.
 
 ---
