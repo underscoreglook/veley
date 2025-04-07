@@ -76,7 +76,7 @@ Veley: excuezeje, oo eh le stacionmet~ro?
 ### Maybe I could try it once with a smile.
 French: Peut-être que je pourrais l'essayer une fois avec le sourire.
 
-Veley: peuet~ je eseypeuet foaun~ avek un sooreeye~.
+Veley: peuet~ je eseypeuet foaun~ aveq un sooreeye~.
 
 | Veley Word | English Meaning    | Pronunciation (French) |
 | ---------- | ------------------ | ---------------------- |
@@ -86,7 +86,7 @@ Veley: peuet~ je eseypeuet foaun~ avek un sooreeye~.
 | peuet      | Maybe (modifier)   | peut être (sans "re")  |
 | foa        | number of (times)  | fois                   |
 | un~        | one (number)       | une                    |
-| avek       | with               | avec                   |
+| aveq       | with               | avec                   |
 | un         | a                  | un                     |
 | sooreeye~  | smile              | sourire                |
 
@@ -106,8 +106,8 @@ I'm just here vibin'.
 ## Okay, then how do I actually use this language?
 *shrugs*
 
-Just read the examples and feel it out, _mek_.
+Just read the examples and feel it out, _meq_.
 
 | Veley Word | English Meaning       | Pronunciation (French) |
 | ---------- | --------------------- | ---------------------- |
-| mek        | dude (gender neutral) | mec                    |
+| meq        | dude (gender neutral) | mec                    |
