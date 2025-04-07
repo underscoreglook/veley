@@ -4,7 +4,7 @@ A bonkers conlang fever dream born from both respect and dismay at the decision-
 
 It’s a spite-powered, vibe-based conlang inspired by the elegance of French phonology, while trying to be as usable as German or Hangul — minus the cultural baggage, silent letters, and syntax that feels like falling down a spiral staircase made of lace.
 
-Warning: I don't speak French. Or German. Just a person that appreciates (some of) the vibes.
+Warning: I don't speak French. Or German. I'm not even a conlanger. Just a person that appreciates (some of) the vibes.
 
 ---
 ## **Vibes**
