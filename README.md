@@ -46,7 +46,7 @@ Veley: je aimpeuetrai soleypeu.
 ### No, I don't want any tacos.
 French: Non, je ne veux pas de tacos.
 
-Veley: no, je veune takospas.
+Veley: no, je veune takospa.
 
 | Veley Word | English Meaning   | Pronunciation (French) |
 | ---------- | ----------------- | ---------------------- |
@@ -56,7 +56,7 @@ Veley: no, je veune takospas.
 | ne         | negate (verb mod) | ne                     |
 | tako       | taco              | taco                   |
 | s          | plural (noun mod) | -s                     |
-| pas        | any               | pas                    |
+| pa         | any               | pas                    |
 
 ### Excuse me, where is the Metro station?
 French: Excusez-moi, où est la station de métro?
