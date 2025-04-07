@@ -106,8 +106,8 @@ I'm just here vibin'.
 ## Okay, then how do I actually use this language?
 *shrugs*
 
-Just read the examples and feel it out, _mec_.
+Just read the examples and feel it out, _mek_.
 
 | Veley Word | English Meaning       | Pronunciation (French) |
 | ---------- | --------------------- | ---------------------- |
-| mec        | dude (gender neutral) | mec                    |
+| mek        | dude (gender neutral) | mec                    |
