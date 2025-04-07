@@ -61,11 +61,11 @@ Veley: no, je veune takospa.
 ### Excuse me, where is the Metro station?
 French: Excusez-moi, où est la station de métro?
 
-Veley: excuezeje, oo eh le stacionmet~ro?
+Veley: ekskyoozeje, oo eh le stacionmet~ro?
 
 | Veley Word | English Meaning            | Pronunciation (French) |
 | ---------- | -------------------------- | ---------------------- |
-| excueze    | excuse (as in "excuse me") | excusez-               |
+| ekskyooze  | excuse (as in "excuse me") | excusez-               |
 | je         | I or me                    | je                     |
 | oo         | where                      | où                     |
 | eh         | to be / is                 | est                    |
