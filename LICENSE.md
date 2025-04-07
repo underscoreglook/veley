@@ -1,6 +1,6 @@
 Veley is licensed under the Vibe Public License:
 
-Use it if want. If you don’t, don’t. I don't need to know.
+Use it if you want. If you don’t, don’t. I don't need to know.
 
 I’m not responsible for any misuse or linguistic related shenanigans.
 
@@ -11,7 +11,7 @@ I’m not responsible for any misuse or linguistic related shenanigans.
 What's OSI?
 
 ### Can I use Veley in my (insert whatever here)?
-Use it if want. If you don’t, don’t.
+Use it if you want. If you don’t, don’t.
 
 ### What are the enforcement mechanisms of the VPL?
 *Vague shrugging motion*
