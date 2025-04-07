@@ -7,21 +7,14 @@ I’m not responsible for any misuse or linguistic related shenanigans.
 ---
 ## MAQ-JB (Me Asked Questions - Just Because)
 
-Q: Is this OSI-approved?
+### Is this OSI-approved?
+What's OSI?
 
-A: What's OSI?
+### Can I use Veley in my (insert whatever here)?
+Use it if want. If you don’t, don’t.
 
+### What are the enforcement mechanisms of the VPL?
+*Vague shrugging motion*
 
-Q: Can I use Veley in my (insert whatever here)?
-
-A: Use it if want. If you don’t, don’t.
-
-
-Q: What are the enforcement mechanisms of the VPL?
-
-A: *Vague shrugging motion*
-
-
-Q: What happens if I violate it?
-
-A: You won’t feel sexy saying the words anymore.
+### What happens if I violate it?
+You won’t feel sexy saying the words anymore.
